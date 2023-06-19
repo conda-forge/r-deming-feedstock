@@ -1,11 +1,11 @@
-About r-deming
-==============
+About r-deming-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-deming-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=deming
 
 Package license: LGPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-deming-feedstock/blob/main/LICENSE.txt)
 
 Summary: Generalized Deming regression, Theil-Sen regression and Passing-Bablock regression functions.
 
